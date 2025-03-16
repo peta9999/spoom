@@ -1,0 +1,33 @@
+.advert {
+    margin-top: 117px;
+}
+
+.advert__container {
+    max-width: 1380px;
+    margin: 0 auto;
+}
+
+.advert__data {
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.advert__info {
+    max-width: 685px;
+}
+
+.info {}
+
+.advert__info-extra {}
+
+.info-extra {}
+
+.advert__link{
+    margin-top: 20px;
+}
+
+.link {}

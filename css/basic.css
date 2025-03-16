@@ -45,3 +45,32 @@ li{
     color: black;
     font-weight: 700;
 }
+
+.link{
+    font-family: var(--fontIMB);
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 164%;
+        text-transform: uppercase;
+        text-align: center;
+        color: #5ab963;
+}
+
+.btn {
+    border-radius: 4px;
+    background-color: var(--colorGreen);
+    padding: 15px 30px;
+    border: none;
+    font-family: var(--fontLF);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 187%;
+    text-align: center;
+    color: #fff;
+    transition: transform 1s;
+    cursor: pointer;
+}
+
+.btn:hover {
+    transform: scale(1.3);
+}

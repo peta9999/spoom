@@ -83,24 +83,7 @@
     color: #fff;
 }
 
-.btn {
-    border-radius: 4px;
-    background-color: var(--colorGreen);
-    padding: 15px 30px;
-    border: none;
-    font-family: var(--fontLF);
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 187%;
-    text-align: center;
-    color: #fff;
-    transition: transform 1s;
-    cursor: pointer;
-}
 
-.btn:hover{
-    transform: scale(1.3);
-}
 
 .grettings__btn {
     margin-top: 34px;
